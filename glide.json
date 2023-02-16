@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Inflate",
+    "description": "A function that takes an input string, decompresses it using the pako library, and returns the string result.",
+    "author": "Eotel",
+    "params": [
+      {
+        "name": "string",
+        "displayName": "String",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
